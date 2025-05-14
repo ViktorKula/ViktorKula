@@ -29,12 +29,13 @@
 
 ### :fire: My Stats :
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ViktorKula&theme=react" alt="GitHub Streak" /></a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ViktorKula&theme=tokyonight&hide_border=true&locale=ru)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ViktorKula&theme=highcontrast)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorKula&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 <div id="header" align="center">
@@ -47,6 +48,8 @@
   <img src="https://komarev.com/ghpvc/?username=ViktorKula&style=flat-square&color=blue" alt=""/>
 </div>
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 
