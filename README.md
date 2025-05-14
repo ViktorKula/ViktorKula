@@ -14,9 +14,27 @@
   <img src="https://camo.githubusercontent.com/cb025a03b9d8598a0303ef6757e521447a811e1d00214963ca25760f8c201aed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3035313232413f7374796c653d666c6174266c6f676f3d48544d4c35"/>
   <img src="https://camo.githubusercontent.com/77d718d0e4b7c74cb4c7a8f91edaea4df31f8c7a652299354d03dfd650013e13/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3035313232413f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d313537324236"/>  
   <img src="https://camo.githubusercontent.com/91a2351b7179ad616fbeb72c1618d13fe257e60be6627180d5174fa6ec3d0200/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3035313232413f7374796c653d666c6174266c6f676f3d676974687562"/>
-  <img src="https://camo.githubusercontent.com/27e65b3d08ce076a0e52cba9d7394743050c6b5db0304b945e32da5a6310888c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3035313232413f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343"/> 
-  
+  <img src="https://camo.githubusercontent.com/27e65b3d08ce076a0e52cba9d7394743050c6b5db0304b945e32da5a6310888c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3035313232413f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343"/>   
 </div>
+
+### :fire: My Stats :
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ViktorKula&theme=react" alt="GitHub Streak" /></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorKula&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div id="badges">
+  <a href="https://www.instagram.com/ve.aesir?igsh=bmoxeWMxc200enZo&utm_source=qr">
+    <img src="https://img.shields.io/badge/Instagram-red?style=flat&logo=Instagram&logoColor=blue&style=for-the-badge" alt="Youtube Badge"/>
+  </a>  
+</div>
+  <img src="https://komarev.com/ghpvc/?username=ViktorKula&style=flat-square&color=blue" alt=""/>
+</div>
+
+
 
 
 <!--
