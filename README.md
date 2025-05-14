@@ -15,7 +15,6 @@
   <img src="https://camo.githubusercontent.com/91a2351b7179ad616fbeb72c1618d13fe257e60be6627180d5174fa6ec3d0200/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3035313232413f7374796c653d666c6174266c6f676f3d676974687562"/>
   <img src="https://camo.githubusercontent.com/27e65b3d08ce076a0e52cba9d7394743050c6b5db0304b945e32da5a6310888c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3035313232413f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343"/>   
 </div>
-<div width="40" height="40">
   
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -28,13 +27,10 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)  
 
-</div>
 
 ### :fire: My Stats :
 
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ViktorKula&theme=highcontrast)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorKula&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ViktorKula&theme=highcontrast&card_width=350)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViktorKula&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
