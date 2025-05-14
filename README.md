@@ -48,6 +48,7 @@
   <img src="https://komarev.com/ghpvc/?username=ViktorKula&style=flat-square&color=blue" alt=""/>
 </div>
 
+# Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
