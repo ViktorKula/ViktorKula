@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&lines=Hi,%20I%27m%20Victor.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&lines=Welcome%20to%20my%20GitHab.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&lines=Full%20Stack%20Web%20Developer)](https://git.io/typing-svg)
+
 
 
 ### :hammer_and_wrench: Tech Stack
