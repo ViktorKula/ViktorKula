@@ -16,8 +16,10 @@
   <img src="https://camo.githubusercontent.com/cb025a03b9d8598a0303ef6757e521447a811e1d00214963ca25760f8c201aed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3035313232413f7374796c653d666c6174266c6f676f3d48544d4c35"/>
   <img src="https://camo.githubusercontent.com/77d718d0e4b7c74cb4c7a8f91edaea4df31f8c7a652299354d03dfd650013e13/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3035313232413f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d313537324236"/>  
   <img src="https://camo.githubusercontent.com/91a2351b7179ad616fbeb72c1618d13fe257e60be6627180d5174fa6ec3d0200/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3035313232413f7374796c653d666c6174266c6f676f3d676974687562"/>
-  <img src="https://camo.githubusercontent.com/27e65b3d08ce076a0e52cba9d7394743050c6b5db0304b945e32da5a6310888c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3035313232413f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343"/>   
+  <img src="https://camo.githubusercontent.com/27e65b3d08ce076a0e52cba9d7394743050c6b5db0304b945e32da5a6310888c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3035313232413f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343"/>
 </div>
+
+
   
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -29,6 +31,13 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)  
+
+               
+<a href="https://github.com/" rel="noopener" target="_blank" class="markdown-link svelte-1xbyzdd"><img src="https://favicon.yandex.net/favicon/v2/github.com/?size=32&amp;stub=1" alt="github.com" class="markdown-link__favicon svelte-1xbyzdd"></a>
+<a href="https://stackoverflow.com/" rel="noopener" target="_blank" class="markdown-link svelte-1xbyzdd"><img src="https://favicon.yandex.net/favicon/v2/stackoverflow.com/?size=32&amp;stub=1" alt="stackoverflow.com" class="markdown-link__favicon svelte-1xbyzdd"></a>
+
+
+
 
 
 ### :fire: My Stats :
